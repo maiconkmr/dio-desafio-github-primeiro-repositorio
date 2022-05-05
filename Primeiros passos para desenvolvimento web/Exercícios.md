@@ -187,3 +187,12 @@ Apache: é o servidor web livre criado em 1995 por Rob McCool. É a principal te
 MySQL: é um sistema de gerenciamento de banco de dados (SGBD), que utiliza a linguagem SQL (Linguagem de Consulta Estruturada, do inglês Structured Query Language) como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares[2] da Oracle Corporation, com mais de 10 milhões de instalações pelo mundo
 
 PHP: ("Hypertext Preprocessor", originalmente Personal Home Page) é uma linguagem interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações presentes e atuantes no lado do servidor, capazes de gerar conteúdo dinâmico na World Wide Web.
+
+
+
+### Construa um site utilizando alguma biblioteca visual jQuery (como Accordion).
+
+Está no arquivo: Primeiros passos - Exercicio final.php
+
+<Primeiros passos - Exercicio final.php>
+
